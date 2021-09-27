@@ -1,1 +1,1 @@
-# nauka_programowania
+Programy na zajęcia z nauki programowania (2017)
